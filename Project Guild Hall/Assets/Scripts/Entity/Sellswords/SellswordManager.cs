@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 /// <summary>
-/// Manages the sellsword data
+/// Manages the quest data
 /// </summary>
 public class SellswordManager : MonoBehaviour
 {
